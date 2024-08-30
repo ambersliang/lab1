@@ -5,8 +5,12 @@ window.onload = loaded;
  */
 function loaded() {
     // Assign to a variable so we can set a breakpoint in the debugger!
+    // const hello = sayHello();
+    document.getElementById('helloButton').addEventListener('click', () => {
     const hello = sayHello();
     console.log(hello);
+    alert(hello);
+    });
 }
 
 /**

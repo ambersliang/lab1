@@ -1,4 +1,33 @@
-h1{
-  border-color: #d3e644;
-  border-style: dashed;
+body{
+  background-color: rgb(246, 253, 238);
 }
+
+h1{
+  border-color: #85f397;
+  border-style: dashed;
+  color: hsl(13, 80%, 65%);
+  padding: 4px;
+}
+
+button{
+  background-color: #f08b8b; 
+  color: white;
+  padding: 8px 8px;
+  border: none;
+  border-radius: 8px;
+}
+
+button:hover{
+  background-color:rgb(243, 193, 218);
+}
+
+ul{
+  list-style-type: square;
+  border-radius: 10px;
+  background-color: rgb(230, 255, 200);
+  color:rgb(233, 160, 123);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align:justify
+}
+
+

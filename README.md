@@ -2,23 +2,12 @@
 
 ## Overview
 
-TODO: Write a project description
+This lab marks my introduction to the world of web development, showcasing the knowledge I've gained so far
+and serving as a refresher of what I've learned in CS208.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- Html listing: https://www.w3schools.com/html/html_lists.asp
+- CSS styling: https://www.w3schools.com/css
+- Alert dialog idea: https://stackoverflow.com/questions/38351634/display-an-alert-based-on-a-json-data
+- Alert dialog code: https://www.w3schools.com/js/js_popup.asp
